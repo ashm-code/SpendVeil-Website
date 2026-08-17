@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ashm-code.github.io/SpendVeil-Website/sitemap.xml
