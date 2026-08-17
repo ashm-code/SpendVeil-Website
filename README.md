@@ -5,3 +5,5 @@ Public marketing website and interactive product demo for SpendVeil, a privacy-f
 Live site: [ashm-code.github.io/SpendVeil-Website](https://ashm-code.github.io/SpendVeil-Website/)
 
 The static demo presents the product inside a realistic, responsive iPhone frame with touch-sized tabs, a central Add action, scrollable app screens, and an iOS-style More sheet. It includes sample-only expense search, receipt capture, reports, recurring schedules, guarded spending questions, privacy settings, and CSV export. It contains no analytics, third-party scripts, external font requests, or connection to the iPhone app's private data.
+
+SpendVeil is offered as one fully free edition. Every feature shown in the demo is included; there is no subscription, in-app purchase, advertising, donation link, or external payment.
